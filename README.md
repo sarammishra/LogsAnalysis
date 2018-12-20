@@ -23,7 +23,7 @@ https://d17h27t6h515a5.cloudfront.net/topher/2016/August/57b5f748_newsdata/newsd
 2. cd into your vagrant folder
 3. type: vagrant up ... to initilize the vagrant vm
 4. type: vagrant ssh
-5*. type: cd /vagrant and now your console should say something like: vagrant@vagrant:/vagrant$ 
+5. type: cd /vagrant and now your console should say something like: vagrant@vagrant:/vagrant$ 
 
 ***Comment: this could have just been my mistake to misplace the file ***
 ***Might not need to do step 5 depending on where you save the file ... you should be operating within your vagrant vm***
