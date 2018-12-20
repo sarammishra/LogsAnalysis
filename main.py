@@ -1,6 +1,7 @@
 #! /usr/bin/env python
 
 import psycopg2
+import pycodestyle 
 
 # Pass each psql query as string
 # 1. What are the most popular three articles of all time?
