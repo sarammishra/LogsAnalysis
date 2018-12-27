@@ -4,7 +4,7 @@ LogsAnalysis for udacity
 # Required Libraries and such
 1. Install python ... this version uses 3.6.5
 2. Install Git Bash
-3. Download Vagrant and VirtualBox 
+3. Download Vagrant and VirtualBox (https://www.vagrantup.com/ & https://www.virtualbox.org/wiki/Downloads)
 4. install pip
 5. pip install psycopg2 
 
@@ -14,6 +14,8 @@ LogsAnalysis for udacity
 https://d17h27t6h515a5.cloudfront.net/topher/2016/August/57b5f748_newsdata/newsdata.zip
 
 2. Unzip the file ... save it under your vagrant folder as newsdata
+  
+2(1/2). Connect to the database using this command: psql -d news
 
 3. Download the main.py file from this repo ... save it under your vagrant folder as main.py
 
